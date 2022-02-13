@@ -68,7 +68,7 @@ void trei_main()
 
 int main()
 {
-    //doi_main();
+    ////doi_main();
     //trei_main();
 }
 
